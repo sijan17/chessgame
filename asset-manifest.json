@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/chessgame/static/css/main.da91a893.css",
+    "main.js": "/chessgame/static/js/main.51c267df.js",
+    "static/js/845.2de7c7d0.chunk.js": "/chessgame/static/js/845.2de7c7d0.chunk.js",
+    "static/js/787.497f1025.chunk.js": "/chessgame/static/js/787.497f1025.chunk.js",
+    "static/media/captureSound.mp3": "/chessgame/static/media/captureSound.d76028bec3f03f7216b9.mp3",
+    "static/media/moveSound.mp3": "/chessgame/static/media/moveSound.c58f415927ab83a28b85.mp3",
+    "static/media/startSound.mp3": "/chessgame/static/media/startSound.83760f9e39f06ae6f109.mp3",
+    "index.html": "/chessgame/index.html",
+    "main.da91a893.css.map": "/chessgame/static/css/main.da91a893.css.map",
+    "main.51c267df.js.map": "/chessgame/static/js/main.51c267df.js.map",
+    "845.2de7c7d0.chunk.js.map": "/chessgame/static/js/845.2de7c7d0.chunk.js.map",
+    "787.497f1025.chunk.js.map": "/chessgame/static/js/787.497f1025.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da91a893.css",
+    "static/js/main.51c267df.js"
+  ]
+}
